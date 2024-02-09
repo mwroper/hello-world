@@ -14,7 +14,7 @@ This repository is for practising the GitHub Flow
 
 ## Desription
 
-**Messing about with GitHub repositroies. Not really sure what I am writing**
+**Messing** about with GitHub repositroies. **Not really** sure what I am **writing**
 
 ## Program Designs
 
@@ -24,5 +24,5 @@ This repository is for practising the GitHub Flow
 
 ## Confirmation
 
-[LinkedIn](www.linkedin.com/in/michael-w-roper)
+~~[LinkedIn](www.linkedin.com/in/michael-w-roper)~~
 
