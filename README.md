@@ -1,7 +1,28 @@
 # hello-world
 This repository is for practising the GitHub Flow
 
-## Title
-### Smaller Title
-I am making some updates!!
-I'm making more updates.
+### Table of contents
+
+- [PROJECT LABELS](#Project-Labels)
+- [DESCRIPTIONS](#Descriptions)
+- [PROGRAM DESIGN](#Program-Design)
+- [CONFIRMATION](#Confirmation)
+
+## Project Title
+
+*Hello World example*
+
+## Desription
+
+**Messing about with GitHub repositroies. Not really sure what I am writing**
+
+## Program Designs
+
+> This is why I am writing about?
+> It is about having fun
+> Also about trying new things
+
+## Confirmation
+
+[LinkedIn](www.linkedin.com/in/michael-w-roper)
+
