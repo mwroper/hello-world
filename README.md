@@ -30,4 +30,4 @@ This repository is for practising the GitHub Flow
 ## Random
 
 That is so funny! :joy:
-	Thank for listening to my ==very important words==
+	Thank for listening to my ==very important words==.
