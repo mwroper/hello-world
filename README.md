@@ -19,8 +19,8 @@ This repository is for practising the GitHub Flow
 ## Program Designs
 
 > This is why I am writing about?
-> It is about having fun
-> Also about trying new things
+> It is about having fun!
+> Also about trying new things.
 
 ## Confirmation
 
